@@ -1,8 +1,83 @@
 {
   "data": [
     {
+      "id": "aliyun-image-superres",
+      "label": "aliyun-image-superres",
+      "type": "image"
+    },
+    {
+      "id": "doubao-seedream-4-5",
+      "label": "doubao-seedream-4-5",
+      "type": "image"
+    },
+    {
+      "id": "doubao-seedream-5-0",
+      "label": "doubao-seedream-5-0",
+      "type": "image"
+    },
+    {
+      "id": "doubao-seedream-5-0-pro",
+      "label": "doubao-seedream-5-0-pro",
+      "type": "image"
+    },
+    {
       "id": "doubao-seedream-5-5",
       "label": "Doubao Seedream 5.5",
+      "type": "image"
+    },
+    {
+      "id": "flux-2",
+      "label": "flux-2",
+      "type": "image"
+    },
+    {
+      "id": "flux-3",
+      "label": "flux-3",
+      "type": "image"
+    },
+    {
+      "id": "flux-kontext",
+      "label": "flux-kontext",
+      "type": "image"
+    },
+    {
+      "id": "gemini-3-pro-image",
+      "label": "gemini-3-pro-image",
+      "type": "image"
+    },
+    {
+      "id": "gemini-3.1-flash-image",
+      "label": "gemini-3.1-flash-image",
+      "type": "image"
+    },
+    {
+      "id": "gemini-3.1-flash-lite-image",
+      "label": "gemini-3.1-flash-lite-image",
+      "type": "image"
+    },
+    {
+      "id": "gemini-nano-banana-2.1-image",
+      "label": "gemini-nano-banana-2.1-image",
+      "type": "image"
+    },
+    {
+      "id": "gpt-image-1.5",
+      "label": "gpt-image-1.5",
+      "type": "image"
+    },
+    {
+      "id": "gpt-image-1.5-all",
+      "label": "gpt-image-1.5-all",
+      "type": "image"
+    },
+    {
+      "id": "gpt-image-2",
+      "label": "gpt-image-2",
+      "type": "image"
+    },
+    {
+      "id": "gpt-image-2-c",
+      "label": "gpt-image-2-c",
       "type": "image"
     },
     {
@@ -21,8 +96,48 @@
       "type": "image"
     },
     {
+      "id": "gpt-image-2.6-flare",
+      "label": "gpt-image-2.6-flare",
+      "type": "image"
+    },
+    {
+      "id": "gpt-image-2.6-sunburst",
+      "label": "gpt-image-2.6-sunburst",
+      "type": "image"
+    },
+    {
+      "id": "grok-imagine-image",
+      "label": "grok-imagine-image",
+      "type": "image"
+    },
+    {
+      "id": "grok-imagine-image-2.0",
+      "label": "grok-imagine-image-2.0",
+      "type": "image"
+    },
+    {
+      "id": "kling-image-o3",
+      "label": "kling-image-o3",
+      "type": "image"
+    },
+    {
       "id": "minimax-h3-image",
       "label": "MiniMax H3 Image",
+      "type": "image"
+    },
+    {
+      "id": "mj_imagine",
+      "label": "mj_imagine",
+      "type": "image"
+    },
+    {
+      "id": "muse-image",
+      "label": "muse-image",
+      "type": "image"
+    },
+    {
+      "id": "qwen-image-2.0",
+      "label": "qwen-image-2.0",
       "type": "image"
     },
     {
@@ -31,13 +146,63 @@
       "type": "image"
     },
     {
+      "id": "wan2.7-image",
+      "label": "wan2.7-image",
+      "type": "image"
+    },
+    {
+      "id": "aliyun-video-superres",
+      "label": "aliyun-video-superres",
+      "type": "video"
+    },
+    {
+      "id": "flux-3-video",
+      "label": "flux-3-video",
+      "type": "video"
+    },
+    {
+      "id": "grok-imagine-video",
+      "label": "grok-imagine-video",
+      "type": "video"
+    },
+    {
+      "id": "grok-imagine-video-special",
+      "label": "grok-imagine-video-special",
+      "type": "video"
+    },
+    {
+      "id": "grok-video-3",
+      "label": "grok-video-3",
+      "type": "video"
+    },
+    {
       "id": "kling-3.0-turbo",
       "label": "Kling 3.0 Turbo",
       "type": "video"
     },
     {
+      "id": "kling-avatar",
+      "label": "kling-avatar",
+      "type": "video"
+    },
+    {
+      "id": "kling-lip-sync",
+      "label": "kling-lip-sync",
+      "type": "video"
+    },
+    {
+      "id": "kling-v3",
+      "label": "kling-v3",
+      "type": "video"
+    },
+    {
       "id": "kling-v3-motion-control",
       "label": "Kling V3 运动控制",
+      "type": "video"
+    },
+    {
+      "id": "kling-v3-omni-cankao",
+      "label": "kling-v3-omni-cankao",
       "type": "video"
     },
     {
@@ -51,8 +216,53 @@
       "type": "video"
     },
     {
+      "id": "minimax-hailuo-2-3",
+      "label": "minimax-hailuo-2-3",
+      "type": "video"
+    },
+    {
+      "id": "muse-video",
+      "label": "muse-video",
+      "type": "video"
+    },
+    {
+      "id": "pixverse-c1",
+      "label": "pixverse-c1",
+      "type": "video"
+    },
+    {
+      "id": "pixverse-v6",
+      "label": "pixverse-v6",
+      "type": "video"
+    },
+    {
+      "id": "seedance-2-0-9tu-special",
+      "label": "seedance-2-0-9tu-special",
+      "type": "video"
+    },
+    {
+      "id": "seedance-2-0-ecom-special",
+      "label": "seedance-2-0-ecom-special",
+      "type": "video"
+    },
+    {
+      "id": "seedance-2-0-manju-special",
+      "label": "seedance-2-0-manju-special",
+      "type": "video"
+    },
+    {
       "id": "seedance-2-0-official",
       "label": "Seedance 2.0 官方直连",
+      "type": "video"
+    },
+    {
+      "id": "seedance-2-0-promo",
+      "label": "seedance-2-0-promo",
+      "type": "video"
+    },
+    {
+      "id": "seedance-2-0-special",
+      "label": "seedance-2-0-special",
       "type": "video"
     },
     {
@@ -61,9 +271,89 @@
       "type": "video"
     },
     {
+      "id": "seedance-2-5-promo",
+      "label": "seedance-2-5-promo",
+      "type": "video"
+    },
+    {
+      "id": "seedance-2-5-special",
+      "label": "seedance-2-5-special",
+      "type": "video"
+    },
+    {
+      "id": "seedance-video-edit",
+      "label": "seedance-video-edit",
+      "type": "video"
+    },
+    {
+      "id": "veo-3-1-manju-special",
+      "label": "veo-3-1-manju-special",
+      "type": "video"
+    },
+    {
+      "id": "veo-3.1",
+      "label": "veo-3.1",
+      "type": "video"
+    },
+    {
+      "id": "veo-4-omni",
+      "label": "veo-4-omni",
+      "type": "video"
+    },
+    {
+      "id": "veo-4-omni-manju-special",
+      "label": "veo-4-omni-manju-special",
+      "type": "video"
+    },
+    {
+      "id": "veo-4-omni-v2v",
+      "label": "veo-4-omni-v2v",
+      "type": "video"
+    },
+    {
+      "id": "video-desubtitle",
+      "label": "video-desubtitle",
+      "type": "video"
+    },
+    {
+      "id": "viduq3",
+      "label": "viduq3",
+      "type": "video"
+    },
+    {
+      "id": "viduq3-cankaosheng",
+      "label": "viduq3-cankaosheng",
+      "type": "video"
+    },
+    {
+      "id": "viduq4",
+      "label": "viduq4",
+      "type": "video"
+    },
+    {
       "id": "wan-3-0",
       "label": "Wan 3.0",
       "type": "video"
+    },
+    {
+      "id": "wan-3-0-special",
+      "label": "wan-3-0-special",
+      "type": "video"
+    },
+    {
+      "id": "wan2.7-video",
+      "label": "wan2.7-video",
+      "type": "video"
+    },
+    {
+      "id": "doubao-tts-2.0",
+      "label": "doubao-tts-2.0",
+      "type": "audio"
+    },
+    {
+      "id": "gemini-2.5-pro-tts",
+      "label": "gemini-2.5-pro-tts",
+      "type": "audio"
     },
     {
       "id": "gemini-3.1-flash-tts",
@@ -71,8 +361,18 @@
       "type": "audio"
     },
     {
+      "id": "gemini-3.8-flash-tts",
+      "label": "gemini-3.8-flash-tts",
+      "type": "audio"
+    },
+    {
       "id": "gpt-4o-mini-tts",
       "label": "GT-4o Mini TTS",
+      "type": "audio"
+    },
+    {
+      "id": "music",
+      "label": "music",
       "type": "audio"
     },
     {
