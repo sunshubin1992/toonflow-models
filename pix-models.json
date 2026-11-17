@@ -1,11 +1,6 @@
 {
   "data": [
     {
-      "id": "aliyun-image-superres",
-      "label": "aliyun-image-superres",
-      "type": "image"
-    },
-    {
       "id": "doubao-seedream-4-5",
       "label": "doubao-seedream-4-5",
       "type": "image"
@@ -61,23 +56,8 @@
       "type": "image"
     },
     {
-      "id": "gpt-image-1.5",
-      "label": "gpt-image-1.5",
-      "type": "image"
-    },
-    {
-      "id": "gpt-image-1.5-all",
-      "label": "gpt-image-1.5-all",
-      "type": "image"
-    },
-    {
       "id": "gpt-image-2",
       "label": "gpt-image-2",
-      "type": "image"
-    },
-    {
-      "id": "gpt-image-2-c",
-      "label": "gpt-image-2-c",
       "type": "image"
     },
     {
@@ -151,11 +131,6 @@
       "type": "image"
     },
     {
-      "id": "aliyun-video-superres",
-      "label": "aliyun-video-superres",
-      "type": "video"
-    },
-    {
       "id": "flux-3-video",
       "label": "flux-3-video",
       "type": "video"
@@ -178,16 +153,6 @@
     {
       "id": "kling-3.0-turbo",
       "label": "Kling 3.0 Turbo",
-      "type": "video"
-    },
-    {
-      "id": "kling-avatar",
-      "label": "kling-avatar",
-      "type": "video"
-    },
-    {
-      "id": "kling-lip-sync",
-      "label": "kling-lip-sync",
       "type": "video"
     },
     {
@@ -311,18 +276,8 @@
       "type": "video"
     },
     {
-      "id": "video-desubtitle",
-      "label": "video-desubtitle",
-      "type": "video"
-    },
-    {
       "id": "viduq3",
       "label": "viduq3",
-      "type": "video"
-    },
-    {
-      "id": "viduq3-cankaosheng",
-      "label": "viduq3-cankaosheng",
       "type": "video"
     },
     {
