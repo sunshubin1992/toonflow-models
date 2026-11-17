@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "id": "doubao-seedream-5-5",
+      "label": "Doubao Seedream 5.5",
+      "type": "image"
+    },
+    {
+      "id": "gemini-3-pro-image",
+      "label": "GM-3 Pro Image",
+      "type": "image"
+    },
+    {
+      "id": "gemini-3.1-flash-image",
+      "label": "GM-3.1 Flash Image",
+      "type": "image"
+    },
+    {
+      "id": "gpt-image-2-official",
+      "label": "GT Image 2 官方版",
+      "type": "image"
+    },
+    {
+      "id": "gpt-image-2.5-flare",
+      "label": "GT Image 2.5 Flare",
+      "type": "image"
+    },
+    {
+      "id": "gpt-image-2.5-sunburst",
+      "label": "GT Image 2.5 Sunburst",
+      "type": "image"
+    },
+    {
+      "id": "qwen-image-3.0",
+      "label": "Qwen Image 3.0",
+      "type": "image"
+    },
+    {
+      "id": "seedance-2-5",
+      "label": "Seedance 2.5 官方直连",
+      "type": "video"
+    },
+    {
+      "id": "seedance-2-0-official",
+      "label": "Seedance 2.0 官方直连",
+      "type": "video"
+    },
+    {
+      "id": "kling-v4",
+      "label": "Kling 4.0",
+      "type": "video"
+    },
+    {
+      "id": "kling-3.0-turbo",
+      "label": "Kling 3.0 Turbo",
+      "type": "video"
+    },
+    {
+      "id": "kling-v3-motion-control",
+      "label": "Kling V3 运动控制",
+      "type": "video"
+    },
+    {
+      "id": "wan-3-0",
+      "label": "Wan 3.0",
+      "type": "video"
+    },
+    {
+      "id": "minimax-h3",
+      "label": "MiniMax H3",
+      "type": "video"
+    },
+    {
+      "id": "gpt-4o-mini-tts",
+      "label": "GT-4o Mini TTS",
+      "type": "audio"
+    },
+    {
+      "id": "gemini-3.1-flash-tts",
+      "label": "GM-3.1 Flash TTS",
+      "type": "audio"
+    },
+    {
+      "id": "speech-2.8",
+      "label": "MiniMax Speech 2.8",
+      "type": "audio"
+    },
+    {
+      "id": "voice-clone",
+      "label": "Voice Clone（音色克隆工具）",
+      "type": "audio"
+    },
+    {
+      "id": "voice-design",
+      "label": "Voice Design（音色设计工具）",
+      "type": "audio"
+    }
+  ]
+}
