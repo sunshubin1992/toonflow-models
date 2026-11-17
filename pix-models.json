@@ -36,21 +36,6 @@
       "type": "image"
     },
     {
-      "id": "seedance-2-5",
-      "label": "Seedance 2.5 官方直连",
-      "type": "video"
-    },
-    {
-      "id": "seedance-2-0-official",
-      "label": "Seedance 2.0 官方直连",
-      "type": "video"
-    },
-    {
-      "id": "kling-v4",
-      "label": "Kling 4.0",
-      "type": "video"
-    },
-    {
       "id": "kling-3.0-turbo",
       "label": "Kling 3.0 Turbo",
       "type": "video"
@@ -61,8 +46,8 @@
       "type": "video"
     },
     {
-      "id": "wan-3-0",
-      "label": "Wan 3.0",
+      "id": "kling-v4",
+      "label": "Kling 4.0",
       "type": "video"
     },
     {
@@ -71,13 +56,28 @@
       "type": "video"
     },
     {
-      "id": "gpt-4o-mini-tts",
-      "label": "GT-4o Mini TTS",
-      "type": "audio"
+      "id": "seedance-2-0-official",
+      "label": "Seedance 2.0 官方直连",
+      "type": "video"
+    },
+    {
+      "id": "seedance-2-5",
+      "label": "Seedance 2.5 官方直连",
+      "type": "video"
+    },
+    {
+      "id": "wan-3-0",
+      "label": "Wan 3.0",
+      "type": "video"
     },
     {
       "id": "gemini-3.1-flash-tts",
       "label": "GM-3.1 Flash TTS",
+      "type": "audio"
+    },
+    {
+      "id": "gpt-4o-mini-tts",
+      "label": "GT-4o Mini TTS",
       "type": "audio"
     },
     {
