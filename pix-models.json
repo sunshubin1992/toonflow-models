@@ -6,16 +6,6 @@
       "type": "image"
     },
     {
-      "id": "gemini-3-pro-image",
-      "label": "GM-3 Pro Image",
-      "type": "image"
-    },
-    {
-      "id": "gemini-3.1-flash-image",
-      "label": "GM-3.1 Flash Image",
-      "type": "image"
-    },
-    {
       "id": "gpt-image-2-official",
       "label": "GT Image 2 官方版",
       "type": "image"
@@ -56,8 +46,8 @@
       "type": "video"
     },
     {
-      "id": "seedance-2-0-ecom-special",
-      "label": "seedance-2-0-ecom-special",
+      "id": "minimax-h3",
+      "label": "minimax-h3",
       "type": "video"
     },
     {
