@@ -146,11 +146,6 @@
       "type": "video"
     },
     {
-      "id": "grok-video-3",
-      "label": "grok-video-3",
-      "type": "video"
-    },
-    {
       "id": "kling-3.0-turbo",
       "label": "Kling 3.0 Turbo",
       "type": "video"
@@ -266,11 +261,6 @@
       "type": "video"
     },
     {
-      "id": "veo-4-omni-manju-special",
-      "label": "veo-4-omni-manju-special",
-      "type": "video"
-    },
-    {
       "id": "veo-4-omni-v2v",
       "label": "veo-4-omni-v2v",
       "type": "video"
@@ -293,11 +283,6 @@
     {
       "id": "wan-3-0-special",
       "label": "wan-3-0-special",
-      "type": "video"
-    },
-    {
-      "id": "wan2.7-video",
-      "label": "wan2.7-video",
       "type": "video"
     },
     {
